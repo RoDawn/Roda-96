@@ -14,24 +14,12 @@
 
 - 📫 How to reach me **whdrnrnskga@naver.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Roda-96&label=Profile%20views&color=0e75b6&style=flat" alt="Roda-96" /> </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<br />
-<!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
-<div>
-  <img src="https://img.shields.io/github/followers/roda-96?style=social" alt="github followers" height="24" />
-  <img src="https://img.shields.io/youtube/channel/subscribers/UCNpiRnWSui8H1-u1qMJGQ5w?style=social" alt="youtube subscribers" height="24" />
-  <img src="https://img.shields.io/youtube/channel/views/UCNpiRnWSui8H1-u1qMJGQ5w?style=social" alt="youtube views" height="24" />
-</div>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roda-96&layout=compact&theme=tokyonight)
-
-[![eigen98's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roda-96&show_icons=true&theme=radical)](https://github.com/Roba-96-readme-stats)
 
 
 
