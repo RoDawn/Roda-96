@@ -8,9 +8,11 @@
 <h1 align="left">Hi 👋 This is Roda 96, a man who sails through life.</h1>
 <h3 align="left">I started coding. Please wait and see which position you will grow into!</h3>
 
-- 👩‍💻 All of my projects are available at [https://western-quotation-cd4.notion.site/8-11-b2ee193c57c446cba02570f0a637cec0?pvs=4]
+- 👩‍💻 [All of my projects are available at](https://western-quotation-cd4.notion.site/8-11-b2ee193c57c446cba02570f0a637cec0?pvs=4)
 
-- 💬 Come to my playground! [https://roda96.github.io]
+- 💬 [Come to my playground!](https://5dietggul.tistory.com/])
+
+- 💬 [Come to my another playground!](https://blog.naver.com/vocal_mark)
 
 - 📫 How to reach me **whdrnrnskga@naver.com**
 
