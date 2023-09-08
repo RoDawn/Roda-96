@@ -29,9 +29,9 @@
 </div>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roba-96&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roda-96&layout=compact&theme=tokyonight)
 
-[![eigen98's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roba-96&show_icons=true&theme=radical)](https://github.com/Roba-96-readme-stats)
+[![eigen98's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roda-96&show_icons=true&theme=radical)](https://github.com/Roba-96-readme-stats)
 
 
 
