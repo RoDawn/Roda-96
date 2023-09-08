@@ -21,19 +21,11 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 <h3 align="left">📈 my github stats</h3>
 <br />
 
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Roda-96&show_icons=true&theme=gotham&locale=en" alt="dasom222g" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roda-96&layout=compact&theme=tokyonight)</div>
 
-<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Roda-96&theme=gotham" alt="Roda-96" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Roda-96&show_icons=true&theme=gotham&locale=en" alt="dasom222g" /></p>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Roda-96&theme=gotham" alt="Roda-96" /></p>
